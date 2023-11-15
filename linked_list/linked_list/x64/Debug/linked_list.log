@@ -1,0 +1,10 @@
+﻿  linked_list.c
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(33,107): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(34,106): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(35,107): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(36,102): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(37,109): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(38,105): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(39,102): warning C4305: функция: усечение из "double" в "float"
+C:\Users\asus\source\repos\linked_list\linked_list\linked_list.c(40,119): warning C4305: функция: усечение из "double" в "float"
+  linked_list.vcxproj -> C:\Users\asus\source\repos\linked_list\x64\Debug\linked_list.exe
